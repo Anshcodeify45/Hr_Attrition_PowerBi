@@ -49,5 +49,5 @@ This interactive Power BI dashboard provides HR and business leaders with a one-
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/workforce-attrition-dashboard.git
+   git clone https://github.com/Anshcodeify45/Hr_Attrition_PowerBi.git
    cd workforce-attrition-dashboard
